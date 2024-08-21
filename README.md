@@ -2,7 +2,7 @@
 
 
 ## Data Cleaning
-Uploaded original dataset to a jyupter notebook and used pandas to clean dataset. ([click here for notebook] (https://github.com/mayahbosworth/security-breach-analysis/blob/main/data/cleaning_security_breach_dataset.ipynb))
+Uploaded original dataset to a jyupter notebook and used pandas to clean dataset. ([click here for notebook](https://github.com/mayahbosworth/security-breach-analysis/blob/main/data/cleaning_security_breach_dataset.ipynb))
 - drop unnecessary columns and missing values
 - normalize columns
 - convert to date time
