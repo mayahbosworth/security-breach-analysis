@@ -1,6 +1,10 @@
 # Security Breach Analysis
 
 
+## Dataset
+Dataset containing detailed information of various security breach incidents. ([dataset here](https://www.kaggle.com/datasets/xontoloyo/security-breachhh))
+
+
 ## Data Cleaning
 Uploaded original dataset to a jyupter notebook and used pandas to clean dataset. ([click here for notebook](https://github.com/mayahbosworth/security-breach-analysis/blob/main/data/cleaning_security_breach_dataset.ipynb))
 - drop unnecessary columns and missing values
